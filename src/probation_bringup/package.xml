@@ -10,6 +10,9 @@
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
   <depend>example_interfaces</depend>
+  <depend>geometry_msgs</depend>
+  <depend>mavros_msgs</depend>
+  <depend>vision_msgs</depend>
   <depend>ros_tcp_endpoint</depend>
   <depend>foxglove_bridge</depend>
 
